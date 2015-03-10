@@ -6,7 +6,7 @@ depend: [Vault]
 commands:
   donationpoints:
     usage: /<command>
-    aliases: [dp, points]
+    aliases: [dp, points, bgfaction, bulgarianfactions]
 permissions:
   donationpoints.free:
     default: false
